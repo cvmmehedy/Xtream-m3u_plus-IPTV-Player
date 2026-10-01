@@ -62,3 +62,4 @@ DEFAULT_URL_FORMATS = {
     "movie": "{server}/movie/{username}/{password}/{stream_id}.{container_extension}",
     "series": "{server}/series/{username}/{password}/{stream_id}.{container_extension}",
 }
+DEFAULT_PLAYLIST_URL = "https://raw.githubusercontent.com/cvmmehedy/SHADHIN-TV/refs/heads/main/SHADHIN%20TV"
